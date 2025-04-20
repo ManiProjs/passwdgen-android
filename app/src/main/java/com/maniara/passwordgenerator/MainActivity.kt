@@ -1,4 +1,4 @@
-package com.maniara.passwordgenerator
+package com.maniarasteh.passwordgenerator
 
 import android.os.Bundle
 import android.widget.Toast

@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.maniara.passwordgenerator"
+    namespace = "com.maniarasteh.passwordgenerator"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.maniara.passwordgenerator"
+        applicationId = "com.maniarasteh.passwordgenerator"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.maniara.passwordgenerator
+package com.maniarasteh.passwordgenerator
 
 import org.junit.Test
 

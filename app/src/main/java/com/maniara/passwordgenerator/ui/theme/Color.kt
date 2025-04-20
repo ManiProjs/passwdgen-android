@@ -1,4 +1,4 @@
-package com.maniara.passwordgenerator.ui.theme
+package com.maniarasteh.passwordgenerator.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

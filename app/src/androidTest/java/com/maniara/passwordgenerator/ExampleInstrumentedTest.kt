@@ -1,4 +1,4 @@
-package com.maniara.passwordgenerator
+package com.maniarasteh.passwordgenerator
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.maniara.passwordgenerator", appContext.packageName)
+        assertEquals("com.maniarasteh.passwordgenerator", appContext.packageName)
     }
 }
